@@ -1,3 +1,3 @@
 - 👋 Currently Systems Developer at Salutis Tecnology
 - 🌱 Always learning something about the web development
-- 👀 Tryna figure out about goLang
+- 👀 Tryna figure out about .NET
