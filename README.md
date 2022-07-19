@@ -1,2 +1,2 @@
-- 👋 Currently Systems Developer at Salutis Tecnology
-- 🌱 Always learning something about web development
+- 👋 Currently System Developer at Infomarket
+- 🌱 Always learning something about web development and Flutter
