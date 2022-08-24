@@ -2,4 +2,4 @@
 - 👋 Currently Mobile Developer at Infomarket. Sometimes Fullstack Developer as well.
 - 💙 Flutter Developer
 - 💚 Javascript environment (NodeJS, ReactJS, NextJS)
-- 🌱 Studying Rust and web assembly
+- 🌱 Studying Rust and web assembly and Data Science
